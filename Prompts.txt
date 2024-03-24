@@ -1,0 +1,36 @@
+prompt 1:
+
+
+I'm making a portfolio site, using HTML/CSS/JS. Can you help me write the initial framework for it? 
+
+I need a home page, in which I will introduce me, my passions, aspirations and study background. I also need a call-to-action directing visitors to explore my work.
+
+Then I need a portfolio page, in which I showcase my best projects. This will include case studies, and testimonials highlighting my contributions and accomplishments.
+
+Finally I need a contact page, which is a minimalist form and social media links in order to facilitate professional connections.
+
+
+prompt 2:
+
+That seems to be close to what I want. However, could you split these into 2 files? One for each page.
+
+prompt 3:
+
+Add css to above code to make it beautiful.
+
+
+prompt 4:
+
+Use your expertise to improve the overall style of the site, focusing on design improvements to enhance HTML and CSS, improve overall readability and user experience.
+
+
+DEEP DREAM GENERATOR
+
+image: 1 
+
+i need to Design a web landing page for a platform that enables users to create their own digital stores. The page should have a modern and user-friendly feel, with a digital theme throughout. The top of the page should be designed to resemble a garage awning,
+
+
+image: 2
+
+Design a captivating Facebook page cover image for a food website. Include mouthwatering food images and picturesque travel scenes, blending them seamlessly to showcase the essence of your website's content.
